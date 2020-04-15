@@ -1,5 +1,5 @@
 # terraform-c7n
-Terraform to create the resources needed for running Cloud Custodian
+Terraform to create the resources needed for running Cloud Custodian in AWS
 
 ## What Does This Module Create
 
